@@ -13,12 +13,7 @@ public class Test {
             System.out.println("Ты тупой");
         }
 
-        if (a < 22){
-            System.out.println("a меньше 20");
-        }
-        else {
-            System.out.println("Ты тупой");
-        }
+
 
 
     }
